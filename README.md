@@ -1,2 +1,6 @@
 # ema
-Aplicație realizată de echipa EMA pentru Hardcore Entrepreneur Hackathon﻿ 2.0
+
+Numele echipei: EMA 
+Liceu
+Școala: Liceul Teoretic "Anghel Saligny" Cernavodă
+Pitch: https://www.youtube.com/watch?v=sajH_WnLsII
